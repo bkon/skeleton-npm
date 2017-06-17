@@ -40,22 +40,5 @@
     "sinon-chai": "^2.10.0",
     "ts-node": "^3.0.4",
     "typescript": "^2.3.2"
-  },
-  "nyc": {
-    "include": [
-      "src/**/*.ts"
-    ],
-    "extension": [
-      ".ts"
-    ],
-    "require": [
-      "ts-node/register"
-    ],
-    "reporter": [
-      "text-summary",
-      "lcov"
-    ],
-    "sourceMap": true,
-    "instrument": true
   }
 }
