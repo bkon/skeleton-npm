@@ -12,7 +12,6 @@
   "author": "Konstantin Burnaev",
   "license": "ISC",
   "dependencies": {
-    "@types/ramda": "^0.0.9",
     "ramda": "^0.23.0"
   },
   "repository": {
@@ -22,6 +21,7 @@
   "devDependencies": {
     "@types/chai": "^3.5.2",
     "@types/mocha": "^2.2.41",
+    "@types/ramda": "^0.0.15",
     "@types/sinon": "^2.2.1",
     "@types/sinon-chai": "^2.7.27",
     "babel-cli": "^6.11.4",
