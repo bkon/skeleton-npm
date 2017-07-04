@@ -5,7 +5,6 @@ import * as sinon from "sinon";
 import * as sinonChai from "sinon-chai";
 
 import * as index from "../src/index";
-import * as types from "../src/types";
 
 chai.use(sinonChai);
 
